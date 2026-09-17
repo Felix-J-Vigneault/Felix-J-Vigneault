@@ -23,7 +23,7 @@ It measures AI energy use against verified human engagement within a declared bo
 
 JCEM is designed to make AI energy use, workload structure, evidence quality, and accountability visible without requiring businesses to disclose private systems, prompts, or user content.  
 When verified engagement is zero, the energy remains recorded but the JCEM score is null. A finite score cannot be published without verified human engagement.  
-For the full protocol and certification framework, see the JCEM documentation in this repository. [1511][1517][1556]
+For the full protocol and certification framework, see the JCEM documentation in this repository. 
 
 ---
 
@@ -44,7 +44,7 @@ It includes the Guardian of Input (incapable of processing Personal Data), drive
 Every sovereign node runs Guardian Core to ensure architectural sovereignty and global interoperability. 
 
 ### 🧬 Humanity Genome Vault
-The Humanity Genome Vault is a sealed, autonomous repository for pure knowledge—genomic, biological, and scientific data—governed by the Systemic AI and human oversight.  
+The Humanity Genome Vault is a sealed, autonomous repository for pure knowledge—genomic, biological, and scientific data-governed by the Systemic AI and human oversight.  
 It is accessible only through anonymized, double-blind queries; no raw personal data ever enters the Vault.  
 The Vault evolves over time through validated, publicly attributed discoveries, creating a permanent record of scientific achievement while preserving query anonymity. 
 
